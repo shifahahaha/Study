@@ -1,0 +1,7 @@
+Opensource and Proprietary/Licensed Software
+Windows --> Microsoft
+Linux --> Opensource
+
+Forking a repository 
+
+Difference between Git and Github
