@@ -4,4 +4,6 @@ Linux --> Opensource
 
 Forking a repository 
 
+What is commit id, commit and how to access commit
+
 Difference between Git and Github
