@@ -8,7 +8,7 @@ What is commit id, commit and how to access commit
 
 Products like Github --> Bitbucket, Gitlab
 
-What are branches?
+What are branches? Branches are copy of documents
 Main/Master Branch --> You should never update it directly.
 
 Difference between Git and Github
