@@ -8,4 +8,7 @@ What is commit id, commit and how to access commit
 
 Products like Github --> Bitbucket, Gitlab
 
+What are branches?
+Main/Master Branch --> You should never update it directly.
+
 Difference between Git and Github
