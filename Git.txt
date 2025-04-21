@@ -11,4 +11,12 @@ Products like Github --> Bitbucket, Gitlab
 What are branches? Branches are copy of documents
 Main/Master Branch --> You should never update it directly.
 
+How to create branch?
+Why to create branch?
+What is pull request (PR)
+Why to create pull request?
+How to merge pull request?
+
+Local, Staging and Remote repository
+
 Difference between Git and Github
